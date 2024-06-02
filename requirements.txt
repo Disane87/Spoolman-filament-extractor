@@ -1,6 +1,6 @@
 attrs==23.2.0
 beautifulsoup4==4.12.2
-certifi==2023.7.22
+certifi==2024.6.2
 charset-normalizer==3.3.0
 distlib==0.3.8
 filelock==3.13.1
