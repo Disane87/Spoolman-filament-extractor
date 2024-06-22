@@ -3,7 +3,7 @@ beautifulsoup4==4.12.2
 certifi==2023.7.22
 charset-normalizer==3.3.0
 distlib==0.3.8
-filelock==3.13.1
+filelock==3.15.4
 idna==3.7
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
