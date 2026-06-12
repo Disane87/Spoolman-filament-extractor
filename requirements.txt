@@ -2,7 +2,7 @@ attrs==23.2.0
 beautifulsoup4==4.12.2
 certifi==2023.7.22
 charset-normalizer==3.3.0
-distlib==0.3.8
+distlib==0.4.3
 filelock==3.13.1
 idna==3.7
 jsonschema==4.22.0
