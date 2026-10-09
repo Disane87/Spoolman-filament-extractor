@@ -41,3 +41,9 @@ Check out these other projects from the Spoolman ecosystem:
 | [🎨 Spoolman Filament Swatch](https://github.com/Disane87/spoolman-filament-swatch) | Beautiful, interactive filament color browser for Spoolman. [Live Demo](https://spoolswatch.disane.dev/) |
 | [🗄️ SpoolmanDB](https://github.com/Donkie/SpoolmanDB) | Centralized community filament database used by Spoolman |
 | [🖨️ Spoolman](https://github.com/Donkie/Spoolman/) | The awesome filament manager that powers everything |
+
+---
+
+<p align="center">
+  Made by me at <a href="https://subthiel.eu/softwareentwicklung">Subthiel</a> — software development &amp; 3D printing
+</p>
